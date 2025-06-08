@@ -3,9 +3,9 @@
 #include <string.h>
 
 /* * Nomes e Contribuições:
- * * Aluno 1: [Nome do Aluno 1] - [Ex: Implementação da função 'busca_valor']
- * Aluno 2: [Nome do Aluno 2] - [Ex: Implementação da função 'desaloca' e testes]
- * Aluno 3: [Nome do Aluno 3] - [Ex: Documentação e implementação de 'contabiliza']
+ * * Henrique Corrêa Duarte - Matrícula:202310769 - E-mail: Henrique.202310769@unilasalle.edu.br - implementou as funções de busca (valor e nome)
+ * Thiago Korrosky Kunrath - Matrícula:202312236 - E-mail: thiago.202312236@unilasalle.edu.br - implementou a função contabilidade e revisou a leitura de dados.
+ * Victor Gomes Fanti - Matrícula: 202220831 - E-mail: victor.202220831@unilasalle.edu.br - implementou a função desaloca e testou todos os casos com arquivos txt.
  * */
 
 // Arquivo com definições da estrutura e outros defines
